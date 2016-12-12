@@ -1,0 +1,6 @@
+{
+  "name": "Simple Clojure Web Api Sample",
+  "description": "A simple example of Clojure Web Api Application Sample.",
+  "image": "heroku/clojure",
+  "addons": [ ]
+}
